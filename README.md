@@ -3,7 +3,8 @@
 
 ## Table Of Contents
 
-[Basic Rules]([url](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules))
+[Basic Rules](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules)
+
 FAQ
 
 Punishments
