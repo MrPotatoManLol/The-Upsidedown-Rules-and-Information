@@ -67,19 +67,19 @@ Online dating is defined as starting a romantic relationship on the internet by 
 
 ❓What is NSFW?
 NSFW is pornographic, offensive, or other content unsuitable for viewing at work or in public places. This includes (but is not limited to):
-Words
-Links
-Content
-Videos
+- Words
+- Links
+- Content
+- Videos
 
 ❓What is Ghost Pinging?
-Ghost pinging is pinging a member/staff and then deleting it. WE WILL SEE IT. Additionally, please keep in mind that our members do not all have the same time zone. This means that even though most are awake, some may be sleeping.
+Ghost pinging is pinging a member/staff and then deleting it. **WE WILL SEE IT.** Additionally, please keep in mind that our members do not all have the same time zone. This means that even though most are awake, some may be sleeping.
 
 ❓Pinging
 We have set up roles for pinging certain events. These include:
-Giveaway Ping (Only used by Staff)
-Events (Only used by Staff)
-Totem Party Ping
+- Giveaway Ping (Only used by Staff)
+- Events (Only used by Staff)
+- Totem Party Ping
 Note: Attempting to ping @everyone or @here will result in a 6 hour mute.
 
 ❓Totem Parties
