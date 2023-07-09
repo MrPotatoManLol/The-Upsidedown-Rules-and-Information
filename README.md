@@ -119,7 +119,7 @@ While Staff are exempt to certain rules, they are expected to follow most rules.
 - Advertising (To a certain extent)
 - Starting Events (To a certain extent)
 
-All punishments made by staff follow a Punishment Level. Listed below are the levels that staff use to punish members. For more information, read Rule Punishment Levels
+Sometimes, when the Staff Team is unsure how to handle a situation, we will use the Punishment Level System. Listed below are the levels that staff use to punish members. For more information, read Rule Punishment Levels
 
 ### Punishment Levels
 ```
@@ -137,7 +137,7 @@ Level 8 - Perm Ban (No Appeal)
 
 ## Rule Punishment Levels
 ---------------------------------------------------------------------------------------
-When a member breaks a rule, the Staff team punishes them accordingly. Each punishment stacks. At the end of the month, the punishments are reset. (Not including bans).
+Sometimes, when the Staff Team is unsure how to handle a situation, we will use the Punishment Level System. Listed below are the levels that each rule has. Each punishment stacks. At the end of the month, the punishments are reset. (Not including bans).
 ### Violations
 ```
 1st - Warn		Level 1
