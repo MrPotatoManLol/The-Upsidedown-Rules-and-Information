@@ -60,13 +60,16 @@ FAQ
 
 Cross-trading is offering something in a game for funds or another in game item. Example: "Trading tesla coil for two Jailbreak Arachnids”
 
+
 ❓What cursing is allowed?
 
 Light cursing is allowed on the server, however F bombs, racial slurs, and NSFW content are strictly prohibited. Use of any forbidden words will result in immediate mute.
 
+
 ❓What is considered online dating?
 
 Online dating is defined as starting a romantic relationship on the internet by giving information about yourself or replying to someone else's information.
+
 
 ❓What is NSFW?
 
@@ -76,9 +79,11 @@ NSFW is pornographic, offensive, or other content unsuitable for viewing at work
 - Content
 - Videos
 
+
 ❓What is Ghost Pinging?
 
 Ghost pinging is pinging a member/staff and then deleting it. **WE WILL SEE IT.** Additionally, please keep in mind that our members do not all have the same time zone. This means that even though most are awake, some may be sleeping.
+
 
 ❓Pinging
 
@@ -88,6 +93,7 @@ We have set up roles for pinging certain events. These include:
 - Totem Party Ping
 Note: Attempting to ping @everyone or @here will result in a 6 hour mute.
 
+
 ❓Totem Parties
 
 When starting a totem party, please ping the Totem Party Ping role to notify members with that role that there is a totem party. The format for starting a totem party is:
@@ -96,10 +102,13 @@ VIP Server Link
 Party location (Area)
 ```
 
+
 ❓What is considered spam/chat flood?
 
 Spam is considered any kind of unwanted, unsolicited digital communication that gets sent out in bulk.
+
 Example: Sending the letter e non-stop in a chat channel.
+
 This rule does not apply to any spam channel.
 
 Punishments
