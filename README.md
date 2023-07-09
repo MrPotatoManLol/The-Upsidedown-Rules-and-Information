@@ -97,15 +97,9 @@ Party location (Area)
 ```
 
 ❓What is considered spam/chat flood?
-
 Spam is considered any kind of unwanted, unsolicited digital communication that gets sent out in bulk.
-
 Example: Sending the letter e non-stop in a chat channel.
-
 This rule does not apply to any spam channel.
-
-
-
 
 Punishments
 ---------------------------------------------------------------------------------------
