@@ -107,19 +107,19 @@ This rule does not apply to any spam channel.
 ## Punishments
 ---------------------------------------------------------------------------------------
 Any and all members caught breaking the rules are subject to punishment. This includes (but is not limited to):
-
+```
 - Members
 - Server Helpers
 - Boosters
 - Staff
-
+```
 While Staff are exempt to certain rules, they are expected to follow most rules.
 
 ### Rules Staff are exempt to:
-
+```
 - Advertising (To a certain extent)
 - Starting Events (To a certain extent)
-
+```
 Sometimes, when the Staff Team is unsure how to handle a situation, we will use the Punishment Level System. These are only used when the Staff Team is unsure on how to handle a situation. Listed below are the levels that staff use to punish members. For more information, read Rule Punishment Levels
 
 ### Punishment Levels
