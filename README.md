@@ -127,84 +127,61 @@ While Staff are exempt to certain rules, they are expected to follow most rules.
 
 All punishments made by staff follow a Punishment Level. Listed below are the levels that staff use to punish members. For more information, read Rule Punishment Levels
 
-###Punishment Levels
+### Punishment Levels
+```
 Level 1 - Warn
-
 Level 2 - Mute (Less than 1 day)
-
 Level 3 - Mute (More than 1 day)
-
 Level 4 - Kick
-
 Level 5 - Temp Ban (Appealable)
-
 Level 6 - Temp Ban (No Appeal)
-
 Level 7 - Perm Ban (Appealable)
-
 Level 8 - Perm Ban (No Appeal)
+```
 
-
-Note: The Staff Team has the right to warn, mute, kick, or ban a member for any reason they seem appropriate. 
+**Note: The Staff Team has the right to warn, mute, kick, or ban a member for any reason they seem appropriate.**
 
 Rule Punishment Levels
 ---------------------------------------------------------------------------------------
 When a member breaks a rule, the Staff team punishes them accordingly. Each punishment stacks. At the end of the month, the punishments are reset. (Not including bans).
 ### Violations
+```
 1st - Warn		Level 1
-
 2nd - Warn		Level 1
-
 3rd - Mute		Level 2
-
 4th - Mute		Level 3
-
 5th - Kick		Level 4
-
 6th - Ban		Level 5
-
 7th - Ban 		Level 6
-
 8th+ - Ban		Level 6
-
+```
 
 **Note: If a rule is missing below, check Exceptions to Violations**
 
 ### Rule Levels
+```
 Rule 1 - Start at Level 1, 1st violation
-
 Rule 3 - Start at Level 2
-
 Rule 4 - Start at Level 2
-
 Rule 5 - Start at Level 1, 2nd violation
-
 Rule 6 - Start at Level 2
-
 Rule 7 - Start at Level 1, 1st violation
-
 Rule 8 - Start at Level 2
-
 Rule 9 - Start at Level 1, 1st violation
-
 Rule 10 - N/A - Events only for Staff.
-
 Rule 11 - N/A
-
 Rule 12 - Start at Level 2
-
 Rule 13 - Level 3 for 1st violation, Level 5 for 2nd violation, Level 7 for 3rd violation, Level 8 for any further violations.
-
+```
 
 **Note: Staff are NOT exempt from rules listed below.**
 
 ### Exceptions to Violations
+```
 Racial Slurs - Level 8
-
 NSFW Content - 1st Violation Level 7, 2nd+ Violation Level 8
-
 Hard Cursing - 1st Violation Level 3, 2nd Violation Level 7, 3rd+ Violation Level 8
-
+```
 
 
 Additional Information
