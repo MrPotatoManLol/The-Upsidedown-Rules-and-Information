@@ -9,7 +9,9 @@
 
 [Punishments](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#faq)
 
-Violations
+[Rule Punishment Levels](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#rule-punishment-levels)
+
+[Violations](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#Violations)
 
 Rule Levels
 
