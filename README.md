@@ -23,6 +23,7 @@ Additional Information	9
 Non English Speaking Users	9
 Server Suggestions	9
 Appeals	9
+
 Basic Rules
 ---------------------------------------------------------------------------------------
 1. Be polite, positive and show respect. Congratulate others or don't say anything at all. Disrespect and/or hate speech is prohibited. Do not start arguments/drama, do not threaten anyone. 
