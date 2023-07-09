@@ -195,4 +195,17 @@ For Ban Appeals, please use this link.
 [Ban Appeals](https://forms.gle/FH9M6YTzmCNhkAe4A)
 **Note: Certain punishments are not able to be appealed. This includes bans from raiding, racial slurs, and NSFW content.**
 
+### Tickets
+When creating a ticket, use the #support channel to do so. If you wait ``24 hours`` without any response from staff, you may ping an online staff member **once.**
 
+If you have proof of a member breaking server rules (i.e. DMing you in an attempt to advertise their server), you may create a ticket to report them.
+If you'd like to report a staff member for abuse, please create a ticket or DM a higher ranking staff member.
+
+### Staff Ranking
+```
+Leader
+Co-Owner
+Admin
+Mod
+Trial Mod
+```
