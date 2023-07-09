@@ -193,9 +193,9 @@ For members who are not fluent in English, Rule 9 does not apply to them.
 
 ### Server Suggestions
 
-If you have any questions/concerns, please create a ticket in the #support channel. Once created, please state the reason you made the ticket. You must wait 24 hours without a reply in order to ping a staff member. If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.
+If you have any questions/concerns, please create a ticket in the #support channel. Once created, please state the reason you made the ticket. You must wait 24 hours without a reply in order to ping a staff member. **If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.**
 
-If it is an emergency (i.e. you or another member is in danger), contact local authorities. 
+**If it is an emergency (i.e. you or another member is in danger), contact local authorities.**
 
 ### Appeals
 
