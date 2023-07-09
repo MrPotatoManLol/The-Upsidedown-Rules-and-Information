@@ -114,83 +114,116 @@ This rule does not apply to any spam channel.
 Punishments
 ---------------------------------------------------------------------------------------
 Any and all members caught breaking the rules are subject to punishment. This includes (but is not limited to):
-Members
-Server Helpers
-Boosters
-Staff
+- Members
+- Server Helpers
+- Boosters
+- Staff
 
 While Staff are exempt to certain rules, they are expected to follow most rules.
 
-Rules Staff are exempt to:
-Advertising (To a certain extent)
-Starting Events (To a certain extent)
+### Rules Staff are exempt to:
+- Advertising (To a certain extent)
+- Starting Events (To a certain extent)
 
 All punishments made by staff follow a Punishment Level. Listed below are the levels that staff use to punish members. For more information, read Rule Punishment Levels
 
-Punishment Levels
+###Punishment Levels
 Level 1 - Warn
+
 Level 2 - Mute (Less than 1 day)
+
 Level 3 - Mute (More than 1 day)
+
 Level 4 - Kick
+
 Level 5 - Temp Ban (Appealable)
+
 Level 6 - Temp Ban (No Appeal)
+
 Level 7 - Perm Ban (Appealable)
+
 Level 8 - Perm Ban (No Appeal)
 
+
 Note: The Staff Team has the right to warn, mute, kick, or ban a member for any reason they seem appropriate. 
+
 Rule Punishment Levels
 ---------------------------------------------------------------------------------------
 When a member breaks a rule, the Staff team punishes them accordingly. Each punishment stacks. At the end of the month, the punishments are reset. (Not including bans).
-Violations
+### Violations
 1st - Warn		Level 1
+
 2nd - Warn		Level 1
+
 3rd - Mute		Level 2
+
 4th - Mute		Level 3
+
 5th - Kick		Level 4
+
 6th - Ban		Level 5
+
 7th - Ban 		Level 6
+
 8th+ - Ban		Level 6
 
 
+**Note: If a rule is missing below, check Exceptions to Violations**
 
-Note: If a rule is missing below, check Exceptions to Violations
-Rule Levels
+### Rule Levels
 Rule 1 - Start at Level 1, 1st violation
+
 Rule 3 - Start at Level 2
+
 Rule 4 - Start at Level 2
+
 Rule 5 - Start at Level 1, 2nd violation
+
 Rule 6 - Start at Level 2
+
 Rule 7 - Start at Level 1, 1st violation
+
 Rule 8 - Start at Level 2
+
 Rule 9 - Start at Level 1, 1st violation
+
 Rule 10 - N/A - Events only for Staff.
+
 Rule 11 - N/A
+
 Rule 12 - Start at Level 2
+
 Rule 13 - Level 3 for 1st violation, Level 5 for 2nd violation, Level 7 for 3rd violation, Level 8 for any further violations.
 
 
+**Note: Staff are NOT exempt from rules listed below.**
 
-Note: Staff are NOT exempt from rules listed below.
-Exceptions to Violations
+### Exceptions to Violations
 Racial Slurs - Level 8
+
 NSFW Content - 1st Violation Level 7, 2nd+ Violation Level 8
+
 Hard Cursing - 1st Violation Level 3, 2nd Violation Level 7, 3rd+ Violation Level 8
+
 
 
 Additional Information
 ---------------------------------------------------------------------------------------
 Non English Speaking Users
+
 If you are not fluent in English, please inform a Staff member. We will be happy to help you find a way to communicate on the server.
 For members who are not fluent in English, Rule 9 does not apply to them.
 
 Server Suggestions
+
 If you have any questions/concerns, please create a ticket in the #support channel. Once created, please state the reason you made the ticket. You must wait 24 hours without a reply in order to ping a staff member. If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.
 
 If it is an emergency (i.e. you or another member is in danger), contact local authorities. 
 
 Appeals
+
 For Ban Appeals, please use this link.
-Ban Appeals
-Note: Certain punishments are not able to be appealed. This includes bans from raiding, racial slurs, and NSFW content.
+[Ban Appeals](https://forms.gle/FH9M6YTzmCNhkAe4A)
+**Note: Certain punishments are not able to be appealed. This includes bans from raiding, racial slurs, and NSFW content.**
 
 
