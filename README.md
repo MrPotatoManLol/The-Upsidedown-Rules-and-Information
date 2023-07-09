@@ -31,14 +31,16 @@ Basic Rules
 
 3. While light swearing is allowed, any slurs, defamatory language, or any language that may discriminate against other people based on sex, gender, race, etc. will lead to punishment.
 
-4. Do not share or ask for personal information. Age, location, real name etc. Respect others' privacy.  One exception is for Staff to verify that a user is old enough to be on Discord. (THE STAFF TEAM WILL NEVER ASK FOR ID OR PASSWORD. IF SOMEONE CLAIMS TO BE A STAFF MEMBER ASKING FOR THIS, REPORT THEM IMMEDIATELY.)
+4. Do not share or ask for personal information. Age, location, real name etc. Respect others' privacy.  One exception is for Staff to verify that a user is old enough to be on Discord. **(THE STAFF TEAM WILL NEVER ASK FOR ID OR PASSWORD. IF SOMEONE CLAIMS TO BE A STAFF MEMBER ASKING FOR THIS, REPORT THEM IMMEDIATELY.)**
 
 5. Cross trading is not allowed anywhere on Roblox. (Read What is Cross Trading)
 
 6. Do not ping without reason. This includes (But is not limited to):
-Ghost pinging
-Pinging members for attention
-Pinging staff for no reason
+```
+- Ghost pinging
+- Pinging members for attention
+- Pinging staff for no reason
+```
 
 7. Use the channels for their intended purpose when communicating here.  No excessive chatting outside of the ⁠💬︱chat. 
 
