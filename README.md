@@ -183,11 +183,13 @@ Hard Cursing - 1st Violation Level 3, 2nd Violation Level 7, 3rd+ Violation Leve
 If you are not fluent in English, please inform a Staff member. We will be happy to help you find a way to communicate on the server.
 For members who are not fluent in English, Rule 9 does not apply to them.
 
+
 ### Server Suggestions
 
 If you have any questions/concerns, please create a ticket in the #support channel. Once created, please state the reason you made the ticket. You must wait 24 hours without a reply in order to ping a staff member. **If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.**
 
 **If it is an emergency (i.e. you or another member is in danger), contact local authorities.**
+
 
 ### Appeals
 
@@ -197,12 +199,14 @@ For Ban Appeals, please use this link.
 
 **Note: Certain punishments are not able to be appealed. This includes bans from raiding, racial slurs, and NSFW content.**
 
+
 ### Tickets
 When creating a ticket, use the #support channel to do so. If you wait ``24 hours`` without any response from staff, you may ping an online staff member **once.**
 
 If you have proof of a member breaking server rules (i.e. DMing you in an attempt to advertise their server), you may create a ticket to report them.
 
 If you'd like to report a staff member for abuse, please create a ticket or DM a higher ranking staff member.
+
 
 ### Staff Ranking
 ```
