@@ -1,7 +1,8 @@
 # The-Upsidedown-Rules-and-InformationThe Upsidedown Rules and Information Document
 ---------------------------------------------------------------------------------------
 
-Table Of Contents
+## Table Of Contents
+
 [Basic Rules]([url](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules))
 FAQ
 
