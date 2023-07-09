@@ -111,7 +111,7 @@ Example: Sending the letter e non-stop in a chat channel.
 
 This rule does not apply to any spam channel.
 
-Punishments
+## Punishments
 ---------------------------------------------------------------------------------------
 Any and all members caught breaking the rules are subject to punishment. This includes (but is not limited to):
 - Members
@@ -141,7 +141,7 @@ Level 8 - Perm Ban (No Appeal)
 
 **Note: The Staff Team has the right to warn, mute, kick, or ban a member for any reason they seem appropriate.**
 
-Rule Punishment Levels
+## Rule Punishment Levels
 ---------------------------------------------------------------------------------------
 When a member breaks a rule, the Staff team punishes them accordingly. Each punishment stacks. At the end of the month, the punishments are reset. (Not including bans).
 ### Violations
@@ -184,20 +184,20 @@ Hard Cursing - 1st Violation Level 3, 2nd Violation Level 7, 3rd+ Violation Leve
 ```
 
 
-Additional Information
+## Additional Information
 ---------------------------------------------------------------------------------------
-Non English Speaking Users
+### Non English Speaking Users
 
 If you are not fluent in English, please inform a Staff member. We will be happy to help you find a way to communicate on the server.
 For members who are not fluent in English, Rule 9 does not apply to them.
 
-Server Suggestions
+### Server Suggestions
 
 If you have any questions/concerns, please create a ticket in the #support channel. Once created, please state the reason you made the ticket. You must wait 24 hours without a reply in order to ping a staff member. If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.
 
 If it is an emergency (i.e. you or another member is in danger), contact local authorities. 
 
-Appeals
+### Appeals
 
 For Ban Appeals, please use this link.
 [Ban Appeals](https://forms.gle/FH9M6YTzmCNhkAe4A)
