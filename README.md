@@ -1,30 +1,6 @@
 # The-Upsidedown-Rules-and-InformationThe Upsidedown Rules and Information Document
 ---------------------------------------------------------------------------------------
 
-Table Of Contents
-Basic Rules	2
-FAQ	4
-❓What is cross-trading?	4
-❓What cursing is allowed?	4
-❓What is considered online dating?	4
-❓What is NSFW?	4
-❓What is Ghost Pinging?	4
-❓Pinging	5
-❓Totem Parties	5
-❓What is considered spam/chat flood?	5
-Punishments	6
-Rules Staff are exempt to:	6
-Punishment Levels	6
-Rule Punishment Levels	7
-Violations	7
-Rule Levels	7
-Exceptions to Violations	8
-Additional Information	9
-Non English Speaking Users	9
-Server Suggestions	9
-Appeals	9
-
-
 Basic Rules
 ---------------------------------------------------------------------------------------
 1. Be polite, positive and show respect. Congratulate others or don't say anything at all. Disrespect and/or hate speech is prohibited. Do not start arguments/drama, do not threaten anyone. 
