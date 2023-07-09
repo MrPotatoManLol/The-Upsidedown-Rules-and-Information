@@ -40,7 +40,7 @@ Basic Rules
 
 10. To avoid problems all events outside of totem parties and wars must be discussed with Evie before posting. This includes giveaways and contests of any kind. (Exceptions listed in Rules Staff are exempt to)
 
-11. ⁠📃︱clan-rules-and-regulations and ⁠📦┃giveaway-rules are considered part of the server rules.
+11. ``⁠📃︱clan-rules-and-regulations`` and ⁠``📦┃giveaway-rules`` are considered part of the server rules.
 
 12. Online dating is not allowed. (Read What is considered online dating?)
 
@@ -106,16 +106,20 @@ This rule does not apply to any spam channel.
 ## Punishments
 ---------------------------------------------------------------------------------------
 Any and all members caught breaking the rules are subject to punishment. This includes (but is not limited to):
+```
 - Members
 - Server Helpers
 - Boosters
 - Staff
+```
 
 While Staff are exempt to certain rules, they are expected to follow most rules.
 
 ### Rules Staff are exempt to:
+```
 - Advertising (To a certain extent)
 - Starting Events (To a certain extent)
+```
 
 All punishments made by staff follow a Punishment Level. Listed below are the levels that staff use to punish members. For more information, read Rule Punishment Levels
 
@@ -186,7 +190,7 @@ For members who are not fluent in English, Rule 9 does not apply to them.
 
 ### Server Suggestions
 
-If you have any questions/concerns, please create a ticket in the #support channel. Once created, please state the reason you made the ticket. You must wait ``24 hours`` without a reply in order to ping an online staff member. **If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.**
+If you have any questions/concerns, please create a ticket in the ``#support`` channel. Once created, please state the reason you made the ticket. You must wait ``24 hours`` without a reply in order to ping an online staff member. **If it is a server raid, ping a staff member IMMEDIATELY in ANY CHANNEL.**
 
 **If it is an emergency (i.e. you or another member is in danger), contact local authorities.**
 
