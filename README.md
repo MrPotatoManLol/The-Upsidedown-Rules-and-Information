@@ -66,11 +66,12 @@ Online dating is defined as starting a romantic relationship on the internet by 
 ❓What is NSFW?
 
 NSFW is pornographic, offensive, or other content unsuitable for viewing at work or in public places. This includes (but is not limited to):
+```
 - Words
 - Links
 - Content
 - Videos
-
+```
 
 ❓What is Ghost Pinging?
 
