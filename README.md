@@ -7,9 +7,9 @@
 
 [FAQ](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#faq)
 
-Punishments
+[Punishments](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#faq)
 
-Rules Staff are exempt to:
+[Rules Staff are exempt to]([url](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#Rules-staff-are-exempt-to))
 
 Punishment Levels
 
