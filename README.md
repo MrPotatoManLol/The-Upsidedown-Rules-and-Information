@@ -2,27 +2,24 @@
 ---------------------------------------------------------------------------------------
 
 Table Of Contents
-[Basic Rules]([url](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules))	                          2
-FAQ                                  	4
-❓What is cross-trading?	            4
-❓What cursing is allowed?	4
-❓What is considered online dating?	  4
-❓What is NSFW?	4
-❓What is Ghost Pinging?	4
-❓Pinging	5
-❓Totem Parties	5
-❓What is considered spam/chat flood?	5
-Punishments	6
-Rules Staff are exempt to:	6
-Punishment Levels	6
-Rule Punishment Levels	7
-Violations	7
-Rule Levels	7
-Exceptions to Violations	8
-Additional Information	9
-Non English Speaking Users	9
-Server Suggestions	9
-Appeals	9
+[Basic Rules]([url](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules))
+FAQ
+
+Punishments
+
+Rules Staff are exempt to:
+
+Punishment Levels
+
+Rule Punishment Levels
+
+Violations
+
+Rule Levels
+
+Exceptions to Violations
+
+Additional Information
 
 Basic Rules
 ---------------------------------------------------------------------------------------
