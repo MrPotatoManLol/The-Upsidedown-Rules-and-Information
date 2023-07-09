@@ -7,17 +7,11 @@
 
 [FAQ](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#faq)
 
-[Punishments](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#faq)
+[Punishments](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#punishments)
 
 [Rule Punishment Levels](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#rule-punishment-levels)
 
-[Violations](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#Violations)
-
-Rule Levels
-
-Exceptions to Violations
-
-Additional Information
+[Additional Information](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#additional-information)
 
 Basic Rules
 ---------------------------------------------------------------------------------------
