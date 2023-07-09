@@ -5,7 +5,7 @@
 
 [Basic Rules](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules)
 
-FAQ
+[FAQ](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#faq)
 
 Punishments
 
