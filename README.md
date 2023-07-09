@@ -192,7 +192,9 @@ If you have any questions/concerns, please create a ticket in the #support chann
 ### Appeals
 
 For Ban Appeals, please use this link.
+
 [Ban Appeals](https://forms.gle/FH9M6YTzmCNhkAe4A)
+
 **Note: Certain punishments are not able to be appealed. This includes bans from raiding, racial slurs, and NSFW content.**
 
 ### Tickets
