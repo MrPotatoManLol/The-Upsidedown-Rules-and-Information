@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 
 Table Of Contents
-Basic Rules	                          2
+[Basic Rules]([url](https://github.com/MrPotatoManLol/The-Upsidedown-Rules-and-Information/blob/main/README.md#basic-rules))	                          2
 FAQ                                  	4
 ❓What is cross-trading?	            4
 ❓What cursing is allowed?	4
